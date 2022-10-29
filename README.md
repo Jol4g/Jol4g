@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **Fedisarray@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
